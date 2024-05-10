@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: aviary
 title: Afrique sur Seine
 manifest_name: afrique-sur-seine
 permalink: afrique-sur-seine
